@@ -17,7 +17,7 @@
 [Task-09](https://github.com/SaketAkella/amFOSS-tasks/tree/main/task-09)|Cryptoscrpaer(Rust lang)|Completed.
 [Task-10](https://github.com/SaketAkella/amFOSS-tasks/tree/main/task-10)|CS50|Not Attempted(left the last question).
 [Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Figma|Attempted.
-[Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|If maths was FUN:P|Done(Output is fine but source limit crossed) 
+[Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|If maths was FUN:P|Not attempted.
 [Task-13](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-13)|Circuit Design(Arduino)|Not attempted.
 [Task-14](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-14)|Bandit|Not attempted.
 [Task-15](https://github.com/SaketAkella/amFOSS-tasks/tree/main/task-15)|Project Euler|Attempted(done with 3 ques).
