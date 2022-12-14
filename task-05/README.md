@@ -1,1 +1,1 @@
-completed the task. I would say this one of the easiset tasks though ive had a few difficulties handling .NET on my linux. 
+completed the task. I would say this was one of the easiset tasks though ive had a few difficulties handling .NET on my linux. 
