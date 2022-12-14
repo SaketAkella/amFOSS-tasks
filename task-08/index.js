@@ -1,0 +1,1 @@
+let play1 = function(){document.getElementById("audio1").play()}

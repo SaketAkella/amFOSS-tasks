@@ -1,0 +1,17 @@
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+D:\amFOSS-task\task-05\Client\bin\Debug\net6.0\Client.exe
+D:\amFOSS-task\task-05\Client\bin\Debug\net6.0\Client.deps.json
+D:\amFOSS-task\task-05\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+D:\amFOSS-task\task-05\Client\bin\Debug\net6.0\Client.dll
+D:\amFOSS-task\task-05\Client\bin\Debug\net6.0\Client.pdb
+D:\amFOSS-task\task-05\Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.dll
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\refint\Client.dll
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.pdb
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+D:\amFOSS-task\task-05\Client\obj\Debug\net6.0\ref\Client.dll
