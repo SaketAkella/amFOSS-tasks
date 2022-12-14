@@ -20,7 +20,7 @@
 [Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|If maths was FUN:P|Done(Output is fine but source limit crossed) 
 [Task-13](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-13)|Circuit Design(Arduino)|Not attempted.
 [Task-14](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-14)|Bandit|Not attempted.
-[Task-15](https://github.com/SaketAkella/amFOSS-tasks/tree/main/task-15|Project Euler)|Attempted(done with 3 ques).
+[Task-15](https://github.com/SaketAkella/amFOSS-tasks/tree/main/task-15)|Project Euler|Attempted(done with 3 ques).
 ## My views about the tasks
 I would say the tasks are pretty basic if you know basics of the repective language or the field, but again I have not attempted and completed all the 15 tasks so i feel the tasks were of medium difficulty level. One thing I would coin is that the amount of exposure and knowledge I gained in this phase of solving tasks was impeccable and I will try to continue the same despite the completion of tasks, I feel leraning new things has been the "new normal" for me. These tasks have played a significant role in developing my self-learning skills.
 ## My Introduction
